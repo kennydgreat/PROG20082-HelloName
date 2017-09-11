@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Name</string>
+    <string name="bottomDisplay">Display</string>
+    <string name="editTextName">Name</string>
+    <string name="displayNameformateString">Hello %s</string>
+    <string name="ToastString">Here\'s a Toast</string>
+</resources>
